@@ -14,7 +14,7 @@
 **空间需求：** 3.5 x 5 米停车位  
 
 #### 概念框架：
-《都市遗迹》，作为《日常生活手册》系列的一部分，探索了另一个现实中的公共工程，其中存在着有机和几何玻璃生物，它们在由模板标志控制的城市景观中穿行。这个装置深入研究了受日常城市维护影响而产生的新兴艺术形式，另一方面又管理着这些神秘生物的移动，这些生物如同神话般的都市居民的交通规则。
+《平行都市遗迹》，作为《日常生活手册》系列的一部分，探索了另一个现实中的公共工程，其中存在着有机和几何玻璃生物，它们在由模板标志控制的城市景观中穿行。这个装置深入研究了受日常城市维护影响而产生的新兴艺术形式，另一方面又管理着这些神秘生物的移动，这些生物如同神话般的都市居民的交通规则。
 
 
 ![worker image](contexts.png "Title")
@@ -55,10 +55,10 @@
 - **拆卸：** 在展览结束时，有效地移除材料，可能会重新组装作为巡回展览。
 
 #### 展览目标：
-《都市遗迹》旨在引发人们对于都市空间和物体的审美和功能价值的重新思考，强调了自然和建造元素在都市环境中的共存。该项目促进了社区互动和创造性表达，弥合了艺术、科技和神话之间的鸿沟。
+《平行都市遗迹》旨在引发人们对于都市空间和物体的审美和功能价值的重新思考，强调了自然和建造元素在都市环境中的共存。该项目促进了社区互动和创造性表达，弥合了艺术、科技和神话之间的鸿沟。
 
 #### 结论：
-通过《都市遗迹》，《日常生活手册》工作者们与“Art Parking”观众展开了关于都市转变和共创的对话。这个装置不仅反映了都市变化，而且通过民主化的艺术创作过程，使公众能够积极参与塑造艺术景观。
+通过《平行都市遗迹》，《日常生活手册》工作者们与“Art Parking”观众展开了关于都市转变和共创的对话。这个装置不仅反映了都市变化，而且通过民主化的艺术创作过程，使公众能够积极参与塑造艺术景观。
 
 ### Artist Proposal for Art Parking Exhibition: "Parallel Urban Palimpsest"
 
@@ -74,7 +74,7 @@
 **Space Requirements:** 3.5 x 5m parking space  
 
 #### Conceptual Framework:
-"Urban Palimpsest," part of "The Manual for Everyday Life" series, extends into a fantastical exploration of public works within an alternate reality. Here, organic and geometric glass creatures exist, navigating an urban landscape governed by stenciled pavement signs. This installation delves into emergent art forms influenced by routine city maintenance, with the added twist of managing these mystical beings' movements akin to traffic rules for mythical urban dwellers.
+"Parallel Urban Palimpsest," part of "The Manual for Everyday Life" series, extends into a fantastical exploration of public works within an alternate reality. Here, organic and geometric glass creatures exist, navigating an urban landscape governed by stenciled pavement signs. This installation delves into emergent art forms influenced by routine city maintenance, with the added twist of managing these mystical beings' movements akin to traffic rules for mythical urban dwellers.
 
 
 ![worker image](contexts.png "Title")
@@ -115,10 +115,10 @@ Three artists, dressed in workmen’s uniforms to blur the line between everyday
 - **Deinstallation:** Efficient removal of materials at exhibition close, with potential reassembly for traveling exhibitions.
 
 #### Exhibition Goals:
-"Urban Palimpsest" aims to provoke reconsideration of the aesthetic and functional values assigned to urban spaces and objects, emphasizing the coexistence of natural and constructed elements within urban settings. The project fosters community interaction and creative expression, bridging art, technology, and mythology.
+"Parallel Urban Palimpsest" aims to provoke reconsideration of the aesthetic and functional values assigned to urban spaces and objects, emphasizing the coexistence of natural and constructed elements within urban settings. The project fosters community interaction and creative expression, bridging art, technology, and mythology.
 
 #### Conclusion:
-With "Urban Palimpsest," The Workers of the Manual for Everyday Life engage the Art Parking audience in a dialogue about urban transformation and co-creation. This installation not only reflects on urban change but also democratizes the art creation process, allowing the public to participate actively in shaping the artistic landscape.
+With "Parallel Urban Palimpsest," The Workers of the Manual for Everyday Life engage the Art Parking audience in a dialogue about urban transformation and co-creation. This installation not only reflects on urban change but also democratizes the art creation process, allowing the public to participate actively in shaping the artistic landscape.
 
 ---
 
