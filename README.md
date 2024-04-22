@@ -117,3 +117,11 @@ Three artists, dressed in workmen’s uniforms to blur the line between everyday
 
 #### Conclusion:
 With "Urban Palimpsest," The Workers of the Manual for Everyday Life engage the Art Parking audience in a dialogue about urban transformation and co-creation. This installation not only reflects on urban change but also democratizes the art creation process, allowing the public to participate actively in shaping the artistic landscape.
+
+---
+
+[Return](https://greggelong.github.io/urban)
+
+[Create Brick Self-portrait](https://greggelong.github.io/parking)
+
+[Transform your own images](https://greggelong.github.io/parkingDrop)
