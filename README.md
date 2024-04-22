@@ -42,7 +42,7 @@
 #### 艺术家参与：
 三位艺术家穿着工人服装，以模糊日常城市工作者和创作者之间的界限，最初会按照预先定义的模式摆放砖块。在展览期间，他们将定期重新排列砖块，有时按照特定的算法，有时随机变换。这种表演性质展示了都市转变的流动性和随机性，进一步丰富了观众对装置的体验。
 
-[worker image](imageb.jpg "Title")
+![worker image](imageb.jpg "Title")
 
 *Artists creating **Urban Palimpsest** (b) 2024*
 
@@ -101,7 +101,7 @@ Visitors are encouraged to interact with the installation by rearranging the bri
 #### Artist Participation:
 Three artists, dressed in workmen’s uniforms to blur the line between everyday city workers and creators, will initially arrange the bricks in a predefined pattern. Throughout the duration of the show, they will periodically rearrange the bricks, sometimes following a specific algorithm and at other times making random changes. This performance aspect demonstrates the fluidity and randomness of urban transformations, further enriching the viewer's experience of the installation.
 
-[worker image](imageb.jpg "Title")
+![worker image](imageb.jpg "Title")
 
 *Artists creating **Urban Palimpsest** (b) 2024*
 
