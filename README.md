@@ -122,7 +122,7 @@ With "Parallel Urban Palimpsest," The Workers of the Manual for Everyday Life en
 
 ---
 
-[Return](https://greggelong.github.io/urban)
+[Return](https://greggelong.github.io/urbanAlternate)
 
 [Create Brick Self-portrait](https://greggelong.github.io/parking)
 
