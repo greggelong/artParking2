@@ -1,11 +1,11 @@
 # artParking2
 
-### Artist Proposal for Art Parking Exhibition: "Urban Palimpsest"
+### Artist Proposal for Art Parking Exhibition: "Parallel Urban Palimpsest"
 
-### 艺术家提案：《都市遗迹》
+### 艺术家提案：《平行都市遗迹》
 
 ![image a](glasscresign.png "Title")
-*Instance of **Urban Palimpsest (a)** 2024*
+*Instance of **Parallel Urban Palimpsest (a)** 2024*
 
 **艺术家团体：** 《日常生活手册》工作者:   [David Lane,](https://www.davidlaneartist.com/) [RedJade Yuan,](https://www.saatchiart.com/RedjadeYuan) [Gregory Kreisman](https://greggelong.github.io)
 
@@ -45,7 +45,7 @@
 
 ![worker image](imageb.jpg "Title")
 
-*Artists creating **Urban Palimpsest** (b) 2024*
+*Artists creating **Parallel Urban Palimpsest** (b) 2024*
 
 
 #### 物流和设置：
@@ -60,11 +60,11 @@
 #### 结论：
 通过《都市遗迹》，《日常生活手册》工作者们与“Art Parking”观众展开了关于都市转变和共创的对话。这个装置不仅反映了都市变化，而且通过民主化的艺术创作过程，使公众能够积极参与塑造艺术景观。
 
-### Artist Proposal for Art Parking Exhibition: "Urban Palimpsest"
+### Artist Proposal for Art Parking Exhibition: "Parallel Urban Palimpsest"
 
 
 ![image a](glasscresign.png "Title")
-*Instance of **Urban Palimpsest (a)** 2024*
+*Instance of **Parallel Urban Palimpsest (a)** 2024*
 
 
 **Artist Group:** The Workers of the Manual for Everyday Life: [David Lane,](https://www.davidlaneartist.com/) [RedJade Yuan,](https://www.saatchiart.com/RedjadeYuan) [Gregory Kreisman](https://greggelong.github.io) 
@@ -105,7 +105,7 @@ Three artists, dressed in workmen’s uniforms to blur the line between everyday
 
 ![worker image](imageb.jpg "Title")
 
-*Artists creating **Urban Palimpsest** (b) 2024*
+*Artists creating **Parallel Urban Palimpsest** (b) 2024*
 
 
 #### Logistics and Setup:
