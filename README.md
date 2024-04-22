@@ -8,6 +8,7 @@
 *Instance of **Urban Palimpsest (a)** 2024*
 
 **艺术家团体：** 《日常生活手册》工作者:   [David Lane,](https://www.davidlaneartist.com/) [RedJade Yuan,](https://www.saatchiart.com/RedjadeYuan) [Gregory Kreisman](https://greggelong.github.io)
+
 **展览标题：** 都市遗迹  
 **媒介：** 混合媒介装置  
 **空间需求：** 3.5 x 5 米停车位  
@@ -67,6 +68,7 @@
 
 
 **Artist Group:** The Workers of the Manual for Everyday Life: [David Lane,](https://www.davidlaneartist.com/) [RedJade Yuan,](https://www.saatchiart.com/RedjadeYuan) [Gregory Kreisman](https://greggelong.github.io) 
+
 **Exhibition Title:** Urban Palimpsest  
 **Medium:** Mixed Media Installation  
 **Space Requirements:** 3.5 x 5m parking space  
