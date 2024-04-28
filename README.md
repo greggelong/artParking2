@@ -129,7 +129,7 @@ With "Parallel Urban Palimpsest," The Workers of the Manual for Everyday Life en
 
 [Transform your own images](https://greggelong.github.io/parkingDrop)
 
-[Read the Comic Book, English](https://greggelong.github.io/artParking2/ecb.pdf)
+[Read the Comic Book, English PDF](https://greggelong.github.io/artParking2/ecb.pdf)
 
-[Read the Comic Book,中文 ](https://greggelong.github.io/artParking2/ccb.pdf)
+[Read the Comic Book, 中文 PDF ](https://greggelong.github.io/artParking2/ccb.pdf)
 
