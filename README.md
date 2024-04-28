@@ -122,6 +122,12 @@ With "Parallel Urban Palimpsest," The Workers of the Manual for Everyday Life en
 
 ---
 
+[Read the Comic Book, English](https://greggelong.github.io/artParking2/ecb.pdf)
+
+[Read the Comic Book,中文 ](https://greggelong.github.io/artParking2/ccb.pdf)
+
+
+
 [Return](https://greggelong.github.io/urbanAlternate)
 
 [Create Brick Self-portrait](https://greggelong.github.io/parking)
