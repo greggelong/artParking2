@@ -4,10 +4,10 @@
 
 ### 艺术家提案：《平行都市遗迹》
 
-![image a](glasscresign.png "Title")
+![image a](newsbs.png "Title")
 *Instance of **Parallel Urban Palimpsest (a)** 2024*
 
-**艺术家团体：** 《日常生活手册》工作者:   [David Lane,](https://www.davidlaneartist.com/) [RedJade Yuan,](https://www.saatchiart.com/RedjadeYuan) [Gregory Kreisman](https://greggelong.github.io)
+**艺术家团体：** 艺术工作者:   [David Lane,](https://www.davidlaneartist.com/) [RedJade Yuan,](https://www.saatchiart.com/RedjadeYuan) [Gregory Kreisman](https://greggelong.github.io)
 
 **展览标题：** 平行都市遗迹  
 **媒介：** 混合媒介装置  
@@ -63,11 +63,11 @@
 ### Artist Proposal for Art Parking Exhibition: "Parallel Urban Palimpsest"
 
 
-![image a](glasscresign.png "Title")
+![image a](newsbs.png "Title")
 *Instance of **Parallel Urban Palimpsest (a)** 2024*
 
 
-**Artist Group:** The Workers of the Manual for Everyday Life: [David Lane,](https://www.davidlaneartist.com/) [RedJade Yuan,](https://www.saatchiart.com/RedjadeYuan) [Gregory Kreisman](https://greggelong.github.io) 
+**Artist Group:** Art Workers: [David Lane,](https://www.davidlaneartist.com/) [RedJade Yuan,](https://www.saatchiart.com/RedjadeYuan) [Gregory Kreisman](https://greggelong.github.io) 
 
 **Exhibition Title:** Parallel Urban Palimpsest  
 **Medium:** Mixed Media Installation  
